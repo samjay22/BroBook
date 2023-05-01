@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BroBook/static/css/main.52807021.css",
+    "main.js": "/BroBook/static/js/main.3d856ecb.js",
+    "static/js/787.3888c700.chunk.js": "/BroBook/static/js/787.3888c700.chunk.js",
+    "index.html": "/BroBook/index.html",
+    "main.52807021.css.map": "/BroBook/static/css/main.52807021.css.map",
+    "main.3d856ecb.js.map": "/BroBook/static/js/main.3d856ecb.js.map",
+    "787.3888c700.chunk.js.map": "/BroBook/static/js/787.3888c700.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52807021.css",
+    "static/js/main.3d856ecb.js"
+  ]
+}
